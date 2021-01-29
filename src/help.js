@@ -9,15 +9,11 @@ const help = (prefix, pushname, botname, oname) => {
     ❏ Criador: SStudios
     ❏ Numero do meu criador: 4002 8922
  ࿇ ══━━━━✥◈✥━━━━══ ࿇
-  
-
   ◪ *CRIAR*
   ࿇ ══━━━━✥◈✥━━━━══ ࿇
     │
     ├─ ❏ ${prefix}sticker Cria figurinha
-    ├─ ❏ ${prefix}toimg
-
-
+    └─ ❏ ${prefix}toimg
   ◪ *STALKEAR*
   ࿇ ══━━━━✥◈✥━━━━══ ࿇
     │
@@ -34,7 +30,7 @@ const help = (prefix, pushname, botname, oname) => {
     ├─ ❏ ${prefix}waifu
     ├─ ❏ ${prefix}neko
     └─ ❏ ${prefix}nekonime
-
+  `
 }
 
 exports.help = help
