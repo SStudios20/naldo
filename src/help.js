@@ -8,12 +8,18 @@ const help = (prefix, pushname, botname, oname) => {
     ❏ Prefix: Sei que isso
     ❏ Criador: SStudios
     ❏ Numero do meu criador: 4002 8922
+	
+	
  ࿇ ══━━━━✥◈✥━━━━══ ࿇
   ◪ *CRIAR*
   ࿇ ══━━━━✥◈✥━━━━══ ࿇
     │
-    ├─ ❏ ${prefix}sticker Cria figurinha
-    └─ ❏ ${prefix}toimg
+    ├─ ❏ ${prefix}sticker     - Cria figurinhas
+    ├─ ❏ ${prefix}fig         - img, gif ou vid
+    ├─ ❏ ${prefix}s 	      - de até 10s
+    └─ ❏ ${prefix}toimg       - Figurinha para imagem
+	
+	
   ◪ *STALKEAR*
   ࿇ ══━━━━✥◈✥━━━━══ ࿇
     │
